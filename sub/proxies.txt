@@ -1,6 +1,5 @@
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none&path=%2f#%f0%9f%87%b0%f0%9f%87%bf%20KZ%201
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&type=tcp&headerType=none&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%201
-ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:80#%f0%9f%87%ba%f0%9f%87%b8%20US%201
-trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?sni=n2.chateditimage.com&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%202
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:80#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%202
+vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&type=ws&host=vps.zakir.web.id&path=vless#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%bb%20LV%201
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6vwn4e3IEZSIDEiLCJhZGQiOiI5NC4yMzIuMjQ3LjE2NCIsInBvcnQiOjQ0MDMwLCJpZCI6IjIyYzM5NmEzLTk1ZGEtNGJlOC1iZWVmLTgzNGQxN2Q3NTc4NCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?encryption=none&type=ws&path=%2fvless%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#%f0%9f%87%a9%f0%9f%87%aa%20DE%201
